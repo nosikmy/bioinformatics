@@ -11,9 +11,9 @@
 
 ## MTHFR
 ### Matcher
-https://github.com/nosikmy/bioinformatics/blob/868e57af4943cf549566e2e42644a8ab5f4c187c/HW_1/result_files/MTHFR_matcher-out.txt#L20-L36C41
+https://github.com/nosikmy/bioinformatics/blob/868e57af4943cf549566e2e42644a8ab5f4c187c/HW_1/result_files/MTHFR_matcher-out.txt#L20-L36
 ### Water
-https://github.com/nosikmy/bioinformatics/blob/868e57af4943cf549566e2e42644a8ab5f4c187c/HW_1/result_files/MTHFR_water-out.txt#L19-L35C41
+https://github.com/nosikmy/bioinformatics/blob/868e57af4943cf549566e2e42644a8ab5f4c187c/HW_1/result_files/MTHFR_water-out.txt#L19-L35
 
 ***Исходя из этих параметров, можно сделать вывод, что алгоритм "matcher" скорее всего предпочтительнее. Он показал более высокую идентичность, более низкий процент пропусков***
 
@@ -21,7 +21,7 @@ https://github.com/nosikmy/bioinformatics/blob/868e57af4943cf549566e2e42644a8ab5
 ### Matcher
 https://github.com/nosikmy/bioinformatics/blob/868e57af4943cf549566e2e42644a8ab5f4c187c/HW_1/result_files/CHI3L1_matcher-out.txt#L20-L36
 ### Water
-https://github.com/nosikmy/bioinformatics/blob/868e57af4943cf549566e2e42644a8ab5f4c187c/HW_1/result_files/CHI3L1_water-out.txt#L19-L35C41
+https://github.com/nosikmy/bioinformatics/blob/868e57af4943cf549566e2e42644a8ab5f4c187c/HW_1/result_files/CHI3L1_water-out.txt#L19-L35
 
 ***Здесь также matcher выглядит более предпочтительным и качественным. У matcher выше процент идентичности, ниже процент пропусков***
 
