@@ -7,7 +7,7 @@
 
 [SCHIZOPHRENIA (OMIM)](https://omim.org/entry/181500?search=schizophrenia&highlight=schizophrenia)
 
-Рассмотри 2 гена MTHFR, CHI3L1, которые имееют имеют ортологов в модельных организмах
+Рассмотри 2 гена MTHFR, CHI3L1, которые имеют ортологов в модельных организмах
 
 ## MTHFR
 ### Matcher
