@@ -42,3 +42,6 @@
 ## Визуализация публикационного качества
 Сохраняем png в хорошем качестве через File -> Save as -> Normal screenshot
 ![alt text](last.png)
+а вот гифка
+
+![alt text](gifka.gif)
