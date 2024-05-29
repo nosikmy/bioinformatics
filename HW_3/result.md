@@ -39,3 +39,6 @@
 ![alt text](image-11.png)
 ![alt text](image-12.png)
 ![alt text](image-13.png)
+## Визуализация публикационного качества
+Сохраняем png в хорошем качестве через File -> Save as -> Normal screenshot
+![alt text](last.png)
