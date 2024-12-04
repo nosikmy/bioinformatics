@@ -18,9 +18,9 @@
 
 ## Полученные предсказания: 
 
-[RoseTTAFold2_prediction.pdb](https://github.com/PeachMood/bioinformatics/blob/main/HW_5/RoseTTAFold2/RoseTTAFold2_prediction.pdb)
+[RoseTTAFold2_prediction.pdb](https://github.com/nosikmy/bioinformatics/blob/main/HW_5/RoseTTAFold2/RoseTTAFold2_prediction.pdb)
 
-[AlphaFold2_prediction.pdb](https://github.com/PeachMood/bioinformatics/blob/main/HW_5/AlphaFold2/AlphaFold2_prediction.pdb)
+[AlphaFold2_prediction.pdb](https://github.com/nosikmy/bioinformatics/blob/main/HW_5/AlphaFold2/AlphaFold2_prediction.pdb)
 
 ## Полная выдача программы выравнивания:
 [Alignment(jCE-CP)](https://github.com/PeachMood/bioinformatics/blob/main/HW_5/Alignment(jCE-CP))
